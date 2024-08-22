@@ -11,7 +11,7 @@ import { CarouselModule } from 'ngx-owl-carousel-o';
         CommonModule,
         FormsModule,
         ReactiveFormsModule,
-        CarouselModule
+        CarouselModule,
 
     ],
     declarations: [
